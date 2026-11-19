@@ -6,7 +6,7 @@ default:
       user: ''
       role: ACCOUNTADMIN
       warehouse: COMPUTE_WH
-      database: DEV_OMS
+      database: OMS_CORE
       schema: SERVING
 
     prod:
