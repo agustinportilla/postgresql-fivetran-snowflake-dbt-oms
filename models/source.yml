@@ -1,6 +1,6 @@
 sources:
   - name: landing
-    database: DEV_OMS
+    database: OMS_CORE
     schema: LANDING
 
     tables:
